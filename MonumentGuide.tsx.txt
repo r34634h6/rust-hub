@@ -1,0 +1,10 @@
+export default function MonumentGuide() {
+  return (
+    <div className="bg-zinc-900 p-8 rounded-2xl">
+      <h2 className="text-3xl font-bold text-orange-400 mb-6">Monument Guide</h2>
+      <p>Green → Supermarket, Gas Station<br/>
+         Blue → Harbor, Satellite Dish<br/>
+         Red → Power Plant, Airfield, Launch Site</p>
+    </div>
+  );
+}
