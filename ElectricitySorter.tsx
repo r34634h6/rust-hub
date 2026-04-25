@@ -34,7 +34,7 @@ export default function ElectricitySorter() {
           <li>{10 + dropboxes} Industrial Conveyors</li>
           <li>4–6 Electric Furnaces</li>
         </ul>
-        <p className="pt-4 text-green-400">Stromverbrauch: ca. {10 + dropboxes} Power → sehr sparsam</p>
+        <p className="pt-4 text-green-400">Stromverbrauch: ca. {10 + dropboxes} Power</p>
       </div>
     </div>
   );
